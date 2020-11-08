@@ -2,7 +2,7 @@
 ### Stats Calculator Group
 #### Contributors: Sean Walsh and Randee Jennings
 
-[![Build Status](https://travis-ci.org/sw522/IS601-851-Stats-Calculator.svg?branch=master)](https://travis-ci.org/github/sw522/IS601-851-Stats-Calculator)
+[![Build Status](https://travis-ci.org/sw522/IS601-851-Statistics-Calculator.svg?branch=master)](https://travis-ci.org/github/sw522/IS601-851-Statistics-Calculator)
 
 Basic Calculations:
 1. Addition
