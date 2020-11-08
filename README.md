@@ -44,4 +44,34 @@ Population Sampling Functions
 
 User          |Change                                                                                                                            |
 --------------|---------------------------------|
-sw522         |FEATURE: Add Baseline Calculator From Earlier Assignment
+sw522         |Feature: Add Baseline Calculator From Earlier Assignment
+sw522         |Feature: Added Statistics Folder and Mean function
+sw522         |Feature: Added Median function
+sw522         |Feature: Added Mode function
+sw522         |Feature: Added Sample Stddev function
+sw522         |Feature: Added sample variance function
+sw522         |Feature: Added standard deviation function
+sw522         |Feature: Added variance function
+sw522         |Feature: Added zscore function
+sw522         |Feature: Added Statistics Class
+sw522         |Feature: Added unit test for Statistics Class
+sw522         |Feature: Added Random Number function
+sw522         |Feature: Added Random Number With Seed function
+sw522         |Feature: Added Random List function
+sw522         |Feature: Added Random List With Seed function
+sw522         |Feature: Added Random Item function
+sw522         |Feature: Added Random Item With Seed function
+sw522         |Feature: Added Random Items function
+sw522         |Feature: Added Random Items With Seed function
+sw522         |Feature: Added Generator Class
+sw522         |Feature: Added SRS function
+sw522         |Feature: Added SRS With Seed function
+sw522         |Feature: Added Margin of Error function
+sw522         |Feature: Added Confidence Interval function
+sw522         |Feature: Added Cochran's Sample Size function
+sw522         |Feature: Added Find Sample Size From CI and Width function
+sw522         |Feature: Added Sampling Class
+sw522         |Feature: Added Sampling unit test
+sw522         |Fix: Fixed Travis Link
+
+
