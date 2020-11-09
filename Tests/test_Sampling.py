@@ -21,7 +21,7 @@ class MyTestCase2(unittest.TestCase):
     def test_srs_sampling(self):
         srs = self.sampling.srsseed(self.testData, self.n, self.seed)
         #pprint.pprint(srs)
-        self.assertEqual(srs, [6, 6, 3])
+        self.assertEqual(srs, [6, 3, 5])
 
     def test_moe_sampling(self):
         moe = self.sampling.moe(self.testData, self.conf)
