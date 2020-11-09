@@ -5,6 +5,5 @@ from Generator.RandomList import randomlist
 import pprint
 
 def randomitems(a, n):
-    b = randomlist(0, len(a), n)
-    #pprint.pprint(list(itemgetter(*b)(a)))
+    b = randomlist(0, len(a) -1, n)
     return list(itemgetter(*b)(a))
