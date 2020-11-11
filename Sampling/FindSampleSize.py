@@ -19,6 +19,6 @@ def findsamplesize(conf, width):
     z_div_moe = z_critical / moe
     z_div_moe_squared = squaring(z_div_moe)
 
-    n = p_times_q * z_div_moe_squared
+    n = ceil(p_times_q * z_div_moe_squared)
 
     return n

@@ -30,8 +30,8 @@ class Sampling(Generator):
         self.result = confidenceinterval(data, conf)
         return self.result
 
-    def cochrans_n(self, data, conf, prop):
-        self.result = cochrans(data, conf, prop)
+    def cochrans_n(self, conf, prop):
+        self.result = cochrans(conf, prop)
         return self.result
 
     def find_n(self, conf, width):
